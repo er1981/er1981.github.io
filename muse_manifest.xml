@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="HERZ.ml" resolutions="1x" timestamp="1607543621784">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="HERZ.ml" resolutions="1x" timestamp="1607632164519">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="stream.css" crc="3912323309" ref="stream"/>
-    <file name="index.css" crc="3993185898" ref="index"/>
-    <file name="live.css" crc="231164790" ref="live"/>
+    <file name="stream.css" crc="233199298" ref="stream"/>
+    <file name="index.css" crc="336815655" ref="index"/>
+    <file name="live.css" crc="489810619" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -24,6 +24,13 @@
     </file>
     <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
     <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="herz-слово-для-сайта---4.svg" crc="4092624700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="herz слово для сайта - 4_poster_.png" crc="43375757" ref="index"/>
+    <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="розы-2.jpg" crc="4021369505" seo="true" ref="index">
@@ -84,6 +91,15 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="lavanda.jpg" crc="194112095" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="garten.jpg" crc="532016593" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="odeya.jpg" crc="3927830371" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
     <file name="stream-favicon.ico" crc="293138087" ref="stream"/>
     <file name="stream----надпись-2.svg" crc="495385725" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
@@ -123,17 +139,8 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
-    <file name="lavanda.jpg" crc="194112095" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="garten.jpg" crc="532016593" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="odeya.jpg" crc="3927830371" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="438383320" seo="true" mt="1607543195443" redirect="true"/>
-  <file name="live.html" crc="4214412225" seo="true" mt="1607543570780" redirect="true"/>
-  <file name="stream.html" crc="404906540" seo="true" mt="1607543612144" redirect="true"/>
+  <file name="index.html" crc="3902094869" seo="true" mt="1607631626404" redirect="true"/>
+  <file name="live.html" crc="310287289" seo="true" mt="1607547585747" redirect="true"/>
+  <file name="stream.html" crc="3934383357" seo="true" mt="1607547352474" redirect="true"/>
 </manifest>
